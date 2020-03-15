@@ -1,0 +1,53 @@
+﻿<!doctype html>
+<html>
+<head>
+    <script>
+        function Hesapla(operator) {
+            var a = document.getElementById("Par1").value;
+            var b = document.getElementById("Par2").value;
+            a = parseInt(a);
+            b = parseInt(b);
+            var result = 0;
+
+            if (operator == '+') {
+                result = a + b;
+            }x
+            else if (operator == '-') {
+                result = a - b;
+            }
+            else if (operator == '*') {
+                result = a * b;
+            }
+            else if (operator == '/') {
+                result = a / b;
+            }
+            else if (operator == '2') {
+                result = a * a;
+            }
+            else {
+                result = Math.pow(a,b);
+            }
+
+
+            document.getElementById("result").innerHTML = result;
+        }
+       
+    </script>
+</head >
+<body>
+
+    <input type="text" id="Par1" />
+    <input type="text" id="Par2" />
+    <br />
+    <input type="button" value="Topla" onclick="Hesapla('+');" />
+    <input type="button" value="Çıkart" onclick="Hesapla('-');" />
+    <input type="button" value="Çarp" onclick="Hesapla('*');" />
+    <input type="button" value="Böl" onclick="Hesapla('/');" />
+    <input type="button" value="Karesi" onclick="Hesapla('2');" />
+    <input type="button" value="Üssü" onclick="Hesapla('^');" />
+
+
+    <hr />
+    <div id="result">Sonuç</div>
+</body>
+</html >

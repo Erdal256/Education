@@ -1,0 +1,175 @@
+﻿<!doctype html>
+<html>
+<head>
+    <style>
+        .button {
+            border-style: solid;
+            width: 50px;
+            height: 50px;
+            float: left;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            user-select: none;
+            background: bisque;
+        }
+
+        .result {
+            width: 220px;
+            height: 50px;
+            border-style: groove;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end
+        }
+    </style>
+    <script>
+        var a = 0;
+        var b = 0;
+        var op = '+';
+        function Hesapla(operator) {
+            a = document.getElementById("ekran").value;
+
+            a = parseFloat(a);
+
+
+
+            if (operator == '+') {
+                document.getElementById("ekran").value = '';
+                op = operator;
+            }
+            else if (operator == '-') {
+                document.getElementById("ekran").value = '';
+                op = operator;
+            }
+            else if (operator == '*') {
+                document.getElementById("ekran").value = '';
+                op = operator;
+            }
+            else if (operator == '/') {
+                document.getElementById("ekran").value = '';
+                op = operator;
+
+            }
+            else if (operator == '^2') {
+                document.getElementById("ekran").value = Math.pow(parseFloat(document.getElementById("ekran").value), 2);
+
+            }
+
+            else if (operator == '%') {
+                document.getElementById("ekran").value = (parseFloat(document.getElementById("ekran").value) / 100);
+
+            }
+            else if (operator == 'sqrt') {
+                document.getElementById("ekran").value = Math.sqrt(parseFloat(document.getElementById("ekran").value))
+
+            }
+            else if (operator == '+/-') {
+                var c = document.getElementById("ekran").value
+                document.getElementById("ekran").value = parseFloat(c) * -1;
+
+            }
+            else if (operator == '1/x') {
+
+                document.getElementById("ekran").value = Math.pow(parseFloat(document.getElementById("ekran").value), -1);
+
+            }
+            else if (operator == 'C' || operator == 'CE') {
+
+                document.getElementById("ekran").value = "";
+
+            }
+            else if (operator == 'Del' ) {
+                 
+                document.getElementById("ekran").value = document.getElementById("ekran").value.substring(0, document.getElementById("ekran").value.length - 1);
+
+            }
+
+
+
+
+        }
+        function karakter(number) {
+
+            var i = parseFloat(number, 10);
+            console.log(i);
+
+            document.getElementById("ekran").value += i;
+
+        }
+        function Sonuc() {
+            b = document.getElementById("ekran").value;
+            b = parseFloat(b);
+            switch (op) {
+                case "+":
+
+                    document.getElementById("ekran").value = (a + b);
+                    return;
+                case "-":
+                    document.getElementById("ekran").value = (a - b);
+                    return;
+                case "*":
+                    document.getElementById("ekran").value = (a * b);
+                    return;
+                case "/":
+                    document.getElementById("ekran").value = (a / b);
+                    return;
+                default:
+                    break;
+            }
+        }
+    </script>
+</head>
+<body>
+
+
+    <div style="width: 226px; height: 395px;margin:auto auto auto auto; border-style: groove;">
+        <input type="text" class="result" value="" id="ekran" style="font-size:24px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
+        <div style="width: 168px; height: 332px; float: left;">
+            <div>
+                <div class="button" onclick="Hesapla('%');">%</div>
+                <div class="button" onclick="Hesapla('sqrt');">sqrt</div>
+                <div class="button" onclick="Hesapla('^2');">x^2</div>
+            </div>
+            <div style="clear: both;"></div>
+            <div>
+                <div class="button" onclick="Hesapla('CE');">CE</div>
+                <div class="button" onclick="Hesapla('C');">C</div>
+                <div class="button" onclick="Hesapla('Del');">←</div>
+            </div>
+            <div style="clear: both;"></div>
+            <div>
+                <div class="button" onclick="karakter('7');">7</div>
+                <div class="button" onclick="karakter('8');">8</div>
+                <div class="button" onclick="karakter('9');">9</div>
+            </div>
+            <div style="clear: both;"></div>
+            <div>
+                <div class="button" onclick="karakter('4');">4</div>
+                <div class="button" id="5" onclick="karakter('5');">5</div>
+                <div class="button" onclick="karakter('6');">6</div>
+            </div>
+            <div style="clear: both;"></div>
+            <div>
+                <div class="button" onclick="karakter('1');">1</div>
+                <div class="button" onclick="karakter('2');">2</div>
+                <div class="button" onclick="karakter('3');">3</div>
+            </div>
+            <div style="clear: both;"></div>
+            <div>
+                <div class="button" style="font-size: 24px;" onclick="Hesapla('+/-');">+/-</div>
+                <div class="button" onclick="karakter('0');">0</div>
+                <div class="button" onclick="karakter(',')" ; style="font-size: 24px;">,</div>
+            </div>
+        </div>
+        <div style="width: 56px; height: 332px; float: left;">
+            <div class="button" onclick="Hesapla('1/x');">1/x</div>
+            <div class="button" onclick="Hesapla('/');">/</div>
+            <div class="button" onclick="Hesapla('*');">X</div>
+            <div class="button" onclick="Hesapla('-');">-</div>
+            <div class="button" onclick="Hesapla('+');">+</div>
+            <div class="button" onclick="Sonuc();">=</div>
+        </div>
+    </div>
+</body>
+</html>
