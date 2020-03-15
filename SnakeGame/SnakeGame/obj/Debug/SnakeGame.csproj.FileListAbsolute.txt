@@ -1,0 +1,14 @@
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\MainWindow.g.cs
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\App.g.cs
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\MainWindow.baml
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\SnakeGame.g.resources
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\ERDAL-PC\Desktop\GIT\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
