@@ -1,0 +1,13 @@
+/Users/aarda/Projects/BubbleSort/BubbleSort/bin/Debug/netcoreapp3.0/BubbleSort
+/Users/aarda/Projects/BubbleSort/BubbleSort/bin/Debug/netcoreapp3.0/BubbleSort.deps.json
+/Users/aarda/Projects/BubbleSort/BubbleSort/bin/Debug/netcoreapp3.0/BubbleSort.runtimeconfig.json
+/Users/aarda/Projects/BubbleSort/BubbleSort/bin/Debug/netcoreapp3.0/BubbleSort.runtimeconfig.dev.json
+/Users/aarda/Projects/BubbleSort/BubbleSort/bin/Debug/netcoreapp3.0/BubbleSort.dll
+/Users/aarda/Projects/BubbleSort/BubbleSort/bin/Debug/netcoreapp3.0/BubbleSort.pdb
+/Users/aarda/Projects/BubbleSort/BubbleSort/obj/Debug/netcoreapp3.0/BubbleSort.csprojAssemblyReference.cache
+/Users/aarda/Projects/BubbleSort/BubbleSort/obj/Debug/netcoreapp3.0/BubbleSort.AssemblyInfoInputs.cache
+/Users/aarda/Projects/BubbleSort/BubbleSort/obj/Debug/netcoreapp3.0/BubbleSort.AssemblyInfo.cs
+/Users/aarda/Projects/BubbleSort/BubbleSort/obj/Debug/netcoreapp3.0/BubbleSort.dll
+/Users/aarda/Projects/BubbleSort/BubbleSort/obj/Debug/netcoreapp3.0/BubbleSort.pdb
+C:\Users\ERDAL-PC\Desktop\GIT\YMS8518-master\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.0\BubbleSort.dll
+C:\Users\ERDAL-PC\Desktop\GIT\YMS8518-master\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.0\BubbleSort.pdb
