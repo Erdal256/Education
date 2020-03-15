@@ -13,7 +13,6 @@ namespace Chat
 {
     public class Startup
     {
-
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -31,6 +30,7 @@ namespace Chat
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
             services.AddSignalR();
+
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }

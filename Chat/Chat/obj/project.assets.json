@@ -12627,11 +12627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ERDAL-PC\\Desktop\\YMS8518-master\\Chat\\Chat\\Chat.csproj",
+      "projectUniqueName": "C:\\Users\\ERDAL-PC\\Desktop\\GIT\\Chat\\Chat\\Chat.csproj",
       "projectName": "Chat",
-      "projectPath": "C:\\Users\\ERDAL-PC\\Desktop\\YMS8518-master\\Chat\\Chat\\Chat.csproj",
+      "projectPath": "C:\\Users\\ERDAL-PC\\Desktop\\GIT\\Chat\\Chat\\Chat.csproj",
       "packagesPath": "C:\\Users\\ERDAL-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ERDAL-PC\\Desktop\\YMS8518-master\\Chat\\Chat\\obj\\",
+      "outputPath": "C:\\Users\\ERDAL-PC\\Desktop\\GIT\\Chat\\Chat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ERDAL-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
