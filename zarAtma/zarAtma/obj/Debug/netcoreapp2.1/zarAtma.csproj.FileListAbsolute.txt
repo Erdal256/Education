@@ -1,0 +1,10 @@
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\bin\Debug\netcoreapp2.1\zarAtma.deps.json
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\bin\Debug\netcoreapp2.1\zarAtma.runtimeconfig.json
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\bin\Debug\netcoreapp2.1\zarAtma.runtimeconfig.dev.json
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\bin\Debug\netcoreapp2.1\zarAtma.dll
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\bin\Debug\netcoreapp2.1\zarAtma.pdb
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\obj\Debug\netcoreapp2.1\zarAtma.csprojAssemblyReference.cache
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\obj\Debug\netcoreapp2.1\zarAtma.AssemblyInfoInputs.cache
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\obj\Debug\netcoreapp2.1\zarAtma.AssemblyInfo.cs
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\obj\Debug\netcoreapp2.1\zarAtma.dll
+C:\Users\ERDAL-PC\Desktop\YMS8518-master\zarAtma\zarAtma\obj\Debug\netcoreapp2.1\zarAtma.pdb
