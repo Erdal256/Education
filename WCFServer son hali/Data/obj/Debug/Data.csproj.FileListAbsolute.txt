@@ -1,0 +1,12 @@
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\Data\bin\Debug\Data.dll
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\Data\bin\Debug\Data.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\Data\obj\Debug\Data.dll
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\Data\obj\Debug\Data.pdb
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\bin\Debug\Data.dll
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\bin\Debug\Data.pdb
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\obj\Debug\Data.dll
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\obj\Debug\Data.pdb

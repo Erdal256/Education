@@ -1,0 +1,11 @@
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\bin\Debug\Data.dll
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\bin\Debug\Helper.dll
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\bin\Debug\Data.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\bin\Debug\Helper.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\obj\Debug\WCFClient.csproj.CopyComplete
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\WCFClient\obj\Debug\WCFClient.pdb

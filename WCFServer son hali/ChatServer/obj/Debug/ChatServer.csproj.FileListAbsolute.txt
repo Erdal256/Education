@@ -1,0 +1,24 @@
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\bin\Debug\Data.dll
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\bin\Debug\Helper.dll
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\bin\Debug\Data.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\bin\Debug\Helper.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\bin\Debug\Data.dll
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\bin\Debug\Helper.dll
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\bin\Debug\Data.pdb
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\bin\Debug\Helper.pdb
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\ERDAL-PC\Desktop\WCFServer son hali\ChatServer\obj\Debug\ChatServer.pdb
