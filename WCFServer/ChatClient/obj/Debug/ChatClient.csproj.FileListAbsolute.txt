@@ -1,0 +1,12 @@
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\bin\Debug\Data.dll
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\bin\Debug\Helper.dll
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\bin\Debug\Data.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\bin\Debug\Helper.pdb
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Metin UÇAR\Source\Repos\WCFServer\ChatClient\obj\Debug\ChatClient.pdb
