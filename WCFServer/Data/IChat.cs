@@ -36,7 +36,7 @@ namespace Data
                 SendDate = DateTime.Now
             });
             Console.WriteLine(nickname + ":" + message);
-            string path = @"C:\Users\erdal\Desktop\YMS8518\WCF-master\log.txt";
+            string path = @"C:\Users\ERDAL-PC\Desktop\GIT\WCFServer\log.txt";
             
             // This text is added only once to the file.
             if (!File.Exists(path))

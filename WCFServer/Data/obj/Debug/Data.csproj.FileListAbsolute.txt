@@ -10,3 +10,9 @@ C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\obj\Debug\Data.csprojAssemblyR
 C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\obj\Debug\Data.dll
 C:\Users\ERDAL-PC\Desktop\WCFServer son hali\Data\obj\Debug\Data.pdb
+C:\Users\ERDAL-PC\Desktop\GIT\WCFServer\Data\bin\Debug\Data.dll
+C:\Users\ERDAL-PC\Desktop\GIT\WCFServer\Data\bin\Debug\Data.pdb
+C:\Users\ERDAL-PC\Desktop\GIT\WCFServer\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\ERDAL-PC\Desktop\GIT\WCFServer\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ERDAL-PC\Desktop\GIT\WCFServer\Data\obj\Debug\Data.dll
+C:\Users\ERDAL-PC\Desktop\GIT\WCFServer\Data\obj\Debug\Data.pdb
