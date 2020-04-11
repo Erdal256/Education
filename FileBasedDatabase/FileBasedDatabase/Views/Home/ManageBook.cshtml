@@ -1,4 +1,40 @@
-﻿@{
+﻿@model FileBasedDatabase.Data.Entities.BaseDatabase
+@{
     Layout = "_Layout";
+    var book = Model.Visitors.SingleOrDefault(a => a.Id == ViewBag.Id);
+
+    string name = string.Empty;
+    Guid id = Guid.Empty;
+    
+    if (book != null)//yeni kayıt giriliyor // != ise güncelleme işlemi
+    {
+        name = book.Name;
+        id = book.Id;
+    }
 }
 
+<div>
+    <div> <input type="text" value="@name" id="Name" placeholder="Kitap Adı" /></div>
+    <div><input type="hidden" value="@id" id="Id" /></div>
+    <div><input type="button" value="Kaydet" onclick="Save();" /></div>
+
+</div>
+
+<script>function Save() {
+        var name = $("#Name").val();
+        var id = $("#Id").val();
+        var data = { Name: name, Id: id };
+        data = JSON.stringify(data);
+
+        $.ajax({
+            type: "POST",
+            url: "/home/setbook",
+            data: data,
+            success: function (result) {
+                console.log(result);
+                window.location = "/";
+            },
+            dataType: "json",
+            contentType: "application/json; charset=utf-8"
+        });
+    }</script>
